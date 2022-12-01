@@ -28,7 +28,6 @@ app.get('/', (req, res) => {
     res.json({message: 'Oi Express!' })
 })
 
-//mongodb+srv://Pablo:<ufDoxrXpT2DRFnti>@apicluster.lrtgljv.mongodb.net/bancodaapi?retryWrites=true&w=majority
 
 
 // entregar uma porta
